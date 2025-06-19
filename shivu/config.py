@@ -7,7 +7,7 @@ class Config(object):
     GROUP_ID = -1002746226173
     TOKEN = "7808483233:AAFDNr1xW2fv112Hik7dM2Bh_wrVdDVktUM"
     mongo_url = "mongodb+srv://hinfi933:4kikA8i7RDzVsB1B@cluster0.xjntjrp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-    PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
+    PHOTO_URL = ["https://files.catbox.moe/xrdug4.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
     SUPPORT_CHAT = "Collect_em_support"
     UPDATE_CHAT = "Collect_em_support"
     BOT_USERNAME = "Collect_Em_AllBot"
