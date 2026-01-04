@@ -1,0 +1,13 @@
+services:
+  - name: anime-hunter
+    git:
+      repo: "https://github.com/adityaranjan0918/anime-hunter"
+      branch: main
+    dockerfile_path: Dockerfile
+    routes:
+      - name: web
+        path: "/"
+    ports:
+      - 8080
+    instance_type: micro
+    
