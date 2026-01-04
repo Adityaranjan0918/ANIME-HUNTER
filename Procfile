@@ -1,2 +1,2 @@
 worker: python3 -m shivu
-koyeb deploy . --archive-buildpack-run-command "npm start"
+koyeb deploy . --archive-buildpack-run-command npm start
